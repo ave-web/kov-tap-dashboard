@@ -1,4 +1,12 @@
 <!DOCTYPE html>
+<!--
+  KOV TAP — Turvalisuse profiili dashboard
+  © 2026 Collaborative Projects OÜ (Ave Viks). Kõik õigused kaitstud.
+  Äriline kasutus, edasilevitamine ja tuletatud teoste avaldamine ainult
+  autoriõiguse omaja eelneval kirjalikul loal.
+  Litsents: https://github.com/ave-web/kov-tap-dashboard/blob/main/LICENSE
+  Kontakt: ave@collaborativeprojects.ee
+-->
 <html lang="et">
 <head>
 <meta charset="UTF-8">
@@ -85,6 +93,14 @@ body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background
   .hidden { display: none !important; }
   #tab-profile.hidden { display: block !important; }
 }
+
+.copro-footer { background: #16213e; color: rgba(255,255,255,0.75); margin-top: 40px; padding: 24px 32px; font-size: 12px; line-height: 1.6; }
+.copro-footer-inner { max-width: 1600px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 24px; justify-content: space-between; }
+.copro-footer strong { color: #fff; font-weight: 600; }
+.copro-footer a { color: #e94560; text-decoration: none; }
+.copro-footer a:hover { text-decoration: underline; }
+.copro-footer-legal { text-align: right; opacity: 0.85; }
+@media (max-width: 700px) { .copro-footer-legal { text-align: left; } }
 </style>
 <body>
 
@@ -1590,6 +1606,23 @@ document.addEventListener('DOMContentLoaded', loadData);
 })();
 </script>
 
+
+
+<footer class="copro-footer">
+  <div class="copro-footer-inner">
+    <div>
+      <strong>KOV TAP — Turvalisuse profiili dashboard</strong><br>
+      Koostanud <a href="https://collaborativeprojects.ee" target="_blank" rel="noopener">Collaborative Projects OÜ</a> — Ave Viks<br>
+      Kontakt: <a href="mailto:ave@collaborativeprojects.ee">ave@collaborativeprojects.ee</a>
+    </div>
+    <div class="copro-footer-legal">
+      © 2026 Collaborative Projects OÜ. Kõik õigused kaitstud.<br>
+      Andmeallikad: TAI, Statistikaamet, PPA, Päästeamet, MinuOmavalitsus — avalikud andmed.<br>
+      Äriline kasutus ja edasilevitamine ainult kirjalikul loal —
+      <a href="https://github.com/ave-web/kov-tap-dashboard/blob/main/LICENSE" target="_blank" rel="noopener">litsentsitingimused</a>.
+    </div>
+  </div>
+</footer>
 
 </body>
 </html>

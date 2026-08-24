@@ -1,0 +1,89 @@
+Copyright (c) 2026 Collaborative Projects OÜ (Ave Viks)
+Kõik õigused kaitstud. / All rights reserved.
+
+===============================================================================
+EESTI KEELES
+===============================================================================
+
+TEOS
+Käesolev litsents kehtib repositooriumi "kov-tap-dashboard" kogu sisule:
+lähtekoodile, andmetöötlusloogikale, näitajate valikule ja definitsioonidele,
+visuaalsele kujundusele ning nende koosseisule (edaspidi "Teos").
+
+Teose autoriõiguse omaja on Collaborative Projects OÜ (registrikood 16412986),
+autor Ave Viks.
+
+LUBATUD ILMA ERALDI LOATA
+1. Teose vaatamine ja lugemine.
+2. Teose kopeerimine isiklikuks, mitteäriliseks tutvumiseks ja õppimiseks.
+3. Teosele viitamine, tsiteerimine ja linkimine, kui autor on nimetatud kujul
+   "Collaborative Projects OÜ / Ave Viks" koos viitega originaalile.
+4. Repositooriumi forkimine GitHubi platvormil GitHubi kasutustingimuste
+   piires.
+
+KEELATUD ILMA AUTORIÕIGUSE OMAJA EELNEVA KIRJALIKU LOATA
+1. Teose või selle olulise osa kasutamine ärilisel eesmärgil, sealhulgas
+   teenusena pakkumine, müümine, rentimine või tellimustöö osana esitamine.
+2. Teosest tuletatud teoste avaldamine või levitamine.
+3. Teose avaldamine oma nime, kaubamärgi või organisatsiooni nime all.
+4. Autorimärgete, käesoleva litsentsi või päritoluviidete eemaldamine või
+   varjamine.
+
+ANDMETE PÄRITOLU
+Teoses kasutatud lähteandmed pärinevad avalikest allikatest (Tervise Arengu
+Instituut, Statistikaamet, Politsei- ja Piirivalveamet, Päästeamet,
+Rahandusministeeriumi MinuOmavalitsus). Need faktiandmed ise ei ole käesoleva
+litsentsiga kaitstud ja igaüks võib neid algallikast kasutada. Käesolev
+litsents kaitseb Teost kui autoriõigusega kaitstud teost: andmete valikut,
+töötlust, esitust, koodi ja kujundust.
+
+GARANTII PUUDUMINE
+Teos antakse "nagu on", ilma igasuguse garantiita. Autoriõiguse omaja ei
+vastuta Teose kasutamisest tulenevate kahjude ega andmete tõlgendamisel tehtud
+otsuste eest.
+
+LOA KÜSIMINE
+Ärilise kasutuse loa saamiseks: ave@collaborativeprojects.ee
+
+===============================================================================
+IN ENGLISH
+===============================================================================
+
+WORK
+This license applies to all contents of the "kov-tap-dashboard" repository:
+source code, data processing logic, choice and definition of indicators,
+visual design, and their compilation (the "Work").
+
+Copyright holder: Collaborative Projects OÜ (Estonian reg. no. 16412986),
+author Ave Viks.
+
+PERMITTED WITHOUT SEPARATE CONSENT
+1. Viewing and reading the Work.
+2. Copying the Work for personal, non-commercial study.
+3. Referencing, quoting and linking to the Work, provided the author is named
+   as "Collaborative Projects OÜ / Ave Viks" with a link to the original.
+4. Forking the repository on GitHub within GitHub's Terms of Service.
+
+PROHIBITED WITHOUT PRIOR WRITTEN CONSENT OF THE COPYRIGHT HOLDER
+1. Any commercial use of the Work or a substantial part of it, including
+   offering it as a service, selling, renting, or delivering it as part of
+   paid consulting work.
+2. Publishing or distributing derivative works.
+3. Publishing the Work under another name, trademark or organisation.
+4. Removing or obscuring copyright notices, this license, or attribution.
+
+SOURCE DATA
+The underlying data originates from Estonian public sources (National
+Institute for Health Development, Statistics Estonia, Police and Border Guard
+Board, Rescue Board, Ministry of Finance / MinuOmavalitsus). Those facts are
+not covered by this license and anyone may use them from the original sources.
+This license protects the Work as a copyrighted work: the selection,
+processing, presentation, code and design of that data.
+
+NO WARRANTY
+The Work is provided "as is", without warranty of any kind. The copyright
+holder is not liable for any damages arising from use of the Work or for
+decisions made on the basis of its data.
+
+PERMISSION REQUESTS
+For commercial use: ave@collaborativeprojects.ee
